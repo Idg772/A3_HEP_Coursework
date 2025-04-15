@@ -1,0 +1,13 @@
+pandas
+numpy
+tensorflow
+tensorflow_probability
+tf_keras
+keras
+scikit-learn
+matplotlib
+seaborn
+optuna
+ipykernel
+jupyter
+notebook
