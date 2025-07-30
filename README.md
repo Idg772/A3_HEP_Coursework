@@ -1,14 +1,18 @@
-#Strucutre
-The report is located in Report/
+# Structure
 
-Notebook names correspond to the question number
+The report is located in the `Report/` directory.
 
-The following questions where attempted
-A2
-B1
-C1
+Notebook names correspond to the question numbers.
 
-#AI Decleration
-All code was created in VSCode with GitHub copilot enabled.
-ChatGPT and ClaudeAI was used to help debug and create the Normalising Flows in C1.
+The following questions were attempted:
+- A2  
+- B1  
+- C1
+
+# AI Declaration
+
+All code was written in VSCode with GitHub Copilot enabled.
+
+ChatGPT and ClaudeAI were used to assist with debugging and developing the Normalising Flows in C1.  
 ChatGPT was also used to proofread the report.
+
